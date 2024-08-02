@@ -35,4 +35,3 @@ This analysis explores the relationship between lead time (time between booking 
 - Target promotions and discounts during off-peak months to balance the booking volumes throughout the year.
 - Use customer behavior data to create personalized offers and packages, especially for city hotel customers, to enhance booking retention.
 - Create a loyalty program to reward loyal customers and provide incentives for them not to cancel their bookings. For example, offer loyalty points that can be redeemed for discounts or additional services.
-- 
